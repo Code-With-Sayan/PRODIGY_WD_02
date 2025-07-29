@@ -1,6 +1,6 @@
 # ⏱️ PRODIGY_WD_02 - Stopwatch Web Application
 
-This is **Task 2** of my ** Web Development Internship** at **Prodigy Infotech**.
+This is **Task 2** of my **Web Development Internship** at **Prodigy Infotech**.
 
 I developed a **fully responsive stopwatch web application** using HTML, CSS, and JavaScript. The app allows users to start, pause, reset the timer, and record lap times with a clean and interactive user interface.
 
